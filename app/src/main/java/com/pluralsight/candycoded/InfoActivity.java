@@ -33,9 +33,8 @@ public class InfoActivity extends AppCompatActivity {
         String location = "geo:0,0?q=618 E South St Orlando, FL 32801";
         String maps = "com.google.android.apps.maps";
         Uri uri = Uri.parse(location);
-        Intent mapIntent = new Intent(Intent.ACTION_VIEW);
+        Intent mapIntent = new Intent(Intent.ACTION_VIEW, uri);
         mapIntent.setPackage(maps);
-        mapIntent.setData(uri);
         if (mapIntent.resolveActivity(getPackageManager()) != null) {
             startActivity(mapIntent);
         }
