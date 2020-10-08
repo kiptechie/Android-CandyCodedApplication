@@ -35,6 +35,7 @@ public class InfoActivity extends AppCompatActivity {
         Uri uri = Uri.parse(location);
         Intent mapIntent = new Intent(Intent.ACTION_VIEW);
         mapIntent.setPackage(maps);
+        mapIntent.setData(uri);
         if (mapIntent.resolveActivity(getPackageManager()) != null) {
             startActivity(mapIntent);
         }
