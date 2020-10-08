@@ -66,7 +66,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -164,22 +164,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1602176021038" />
-    <state width="1476" height="221" key="GridCell.Tab.0.bottom" timestamp="1602176995781">
+    <state width="1476" height="221" key="GridCell.Tab.0.bottom" timestamp="1602184250689">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1476" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602176995781" />
-    <state width="1476" height="221" key="GridCell.Tab.0.center" timestamp="1602176995781">
+    <state width="1476" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602184250689" />
+    <state width="1476" height="221" key="GridCell.Tab.0.center" timestamp="1602184250688">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1476" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602176995781" />
-    <state width="1476" height="221" key="GridCell.Tab.0.left" timestamp="1602176995781">
+    <state width="1476" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602184250688" />
+    <state width="1476" height="221" key="GridCell.Tab.0.left" timestamp="1602184250688">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1476" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602176995781" />
-    <state width="1476" height="221" key="GridCell.Tab.0.right" timestamp="1602176995781">
+    <state width="1476" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602184250688" />
+    <state width="1476" height="221" key="GridCell.Tab.0.right" timestamp="1602184250689">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1476" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602176995781" />
+    <state width="1476" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602184250689" />
     <state x="100" y="100" width="1336" height="664" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602176500075">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
